@@ -1,0 +1,13 @@
+name: GM-Control
+version: 1.1
+main: tech.itexpress.gmcontrol.Gmcontrol
+author: Lukas
+commands:
+  gm:
+    description: Ändere deinen Spielmodus.
+    usage: /gm <1|2|3|4>
+    permission-message: Du hast keine Berechtigung, diesen Befehl auszuführen.
+  v:
+    description: Versetze dich in den Vanish-Modus.
+    usage: /v
+    permission-message: Du hast keine Berechtigung, diesen Befehl auszuführen.
